@@ -1,4 +1,3 @@
 hi
 this is second file
 hello
-sample
